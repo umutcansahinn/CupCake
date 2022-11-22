@@ -1,24 +1,5 @@
-Cupcake app
-=================================
-
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
-The order details get displayed on an order summary screen and can be shared to another app to
-send the order.
-
-TODO
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-* TODO
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+![11](https://user-images.githubusercontent.com/66000826/203321101-dbaedf78-1cd8-46cc-9f21-043ba0cc54e2.PNG)
+![22](https://user-images.githubusercontent.com/66000826/203321120-5afd0608-532d-4618-9deb-d6256e34c7f4.PNG)
+![33](https://user-images.githubusercontent.com/66000826/203321139-f83f605d-d83d-480b-ad11-def2bd1fb555.PNG)
+![44](https://user-images.githubusercontent.com/66000826/203321151-a17393eb-8c39-4322-9254-daf4196e4f67.PNG)
+![55](https://user-images.githubusercontent.com/66000826/203321175-b1469427-6563-4400-b4e9-1d637444e68d.PNG)
